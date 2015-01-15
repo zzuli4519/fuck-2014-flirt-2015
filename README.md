@@ -33,25 +33,25 @@
 #### [3 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
-|[拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528)
-|[懂事的一年](../master/3/vNcdkguqHUh.md) | [静宏](https://github.com/vNcdkguqHUh)
-|[从零到二的一年](../master/3/Caij.md) | [Caij](https://github.com/Caij)
-|[美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
+[拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528)
+[懂事的一年](../master/3/vNcdkguqHUh.md) | [静宏](https://github.com/vNcdkguqHUh)
+[从零到二的一年](../master/3/Caij.md) | [Caij](https://github.com/Caij)
+[美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
 
 #### [4 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
-|[认真的一年](../master/4/Jason.md) | [志雄](https://github.com/jacsonLee)
-|[失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq)
+[认真的一年](../master/4/Jason.md) | [志雄](https://github.com/jacsonLee)
+[失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq)
 
 #### [5 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
-|[步步向上的一年](../master/5/WuTong.md) | [梧桐]
+[步步向上的一年](../master/5/WuTong.md) | [梧桐](https://github.com/lzt1226)
 
 #### [6 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
-| 
+ | 
 
 
