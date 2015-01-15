@@ -25,6 +25,7 @@
 <img src="http://ww1.sinaimg.cn/large/86e2ff85gw1eoa6iiqcsxj20k00zkdje.jpg" alt=" " title=" " width="156" height="277" />  <img src="http://ww1.sinaimg.cn/large/86e2ff85gw1eoa6ixt847j20k00zkgoz.jpg" alt=" " title=" " width="156" height="277" />
 
 9. 买了 iPhone 5s 和 MacBook Pro，哈哈，感谢 Pro，没有它俺不可能随时随地修 Bug 的= =……
+
 #### 不足
 1.  还是比较羞涩，总是想着自己要变强大才去接触和交往一些大神。 
 
