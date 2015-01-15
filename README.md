@@ -24,6 +24,7 @@
 [成长的一年](../master/1/lightSky.md) | [lightSky](https://github.com/lightSky)
 [满足的一年](../master/1/luozi.md) | [Luozi](https://github.com/luozi)
 [开心的一年=.=](../master/1/drakeet.md) | [drakeet](https://github.com/drakeet)
+[就这么的两年](../master/1/larry.md) | [larry](https://github.com/18611480882)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
