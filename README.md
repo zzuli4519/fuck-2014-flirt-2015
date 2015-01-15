@@ -22,6 +22,7 @@
 [埋头苦干的一年](../master/1/rengwuxian.md) | [扔物线](https://github.com/rengwuxian)
 [质变的一年](../master/1/baoyongzhang.md) | [baoyz](https://github.com/baoyongzhang)
 [成长的一年](../master/1/lightSky.md) | [lightSky](https://github.com/lightSky)
+[满足的一年](../master/1/luozi.md) | [Luozi](https://github.com/luozi)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
