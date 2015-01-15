@@ -37,7 +37,7 @@
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
- | 
+[蓄势待发的一年](../master/2/zmywly8866.md) | [zmywly8866](https://github.com/zmywly8866)
 
 #### [3 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
