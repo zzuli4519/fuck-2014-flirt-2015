@@ -39,6 +39,7 @@
 简介 | 作者
 :------------- | :-------------
 |[认真的一年](../master/4/Jason.md) | [志雄](https://github.com/jacsonLee)
+|[失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq)
 
 #### [5 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
