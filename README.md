@@ -13,7 +13,7 @@
 ### 精华总结
 简介 | 作者 | 推荐理由
 :------------- | :------------- | :-------------
-[拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528) | 微博客户端的各种网络优化手段，等博客分享。这个`Fuck 2014`创意者
+[拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528) | 微博客户端网络优化等，等博客分享。这个`Fuck 2014`创意者
 [埋头苦干的一年](../master/1/rengwuxian.md) | [扔物线](https://github.com/rengwuxian) | [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) 作者，[Dagger 原理](https://github.com/android-cn/android-open-project-analysis/blob/master/dagger/README.md)分析者，生子，新事业
 [失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq) | 这一年超多技术的学习
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile) | 先说对着源码看完了《深入理解Android》这事
