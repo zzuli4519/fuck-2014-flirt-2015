@@ -61,6 +61,6 @@
 #### [6 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
- | 
+[开始的一年](../master/6/Wmmeng.md) | [Wmmeng](https://github.com/Wmmeng)
 
 
