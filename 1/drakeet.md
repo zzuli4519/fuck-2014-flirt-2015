@@ -21,7 +21,7 @@
 
 7. 大二下学期末，从自己角度出发，做了『贝壳单词』这个 APP，是一个全新的创意 APP，并且进行了开源（开源至v1.3，新版暂时没有开源），获得 [豌豆荚设计奖](http://www.wandoujia.com/award/blog/me.drakeet.seashell) ，感谢豌豆荚的赏识；
 
-8. 贝壳单词获得天使投资， 我也因此休学出来创业，并且开发完成了2.0版本， 到2.2已经全面 Material Design，包括设置页面、自动更新提示的对话框、Toast 等等这些也都  MD 化。相关链接：http://fir.im/seashell（内附二维码）
+8. 贝壳单词获得天使投资， 我也因此休学出来创业，并且开发完成了2.0版本， 到2.2已经全面 Material Design，包括设置页面、自动更新提示的对话框、Toast 等等这些也都  MD 化。相关链接：http://fir.im/seashell （内附二维码）
 <img src="http://ww1.sinaimg.cn/large/86e2ff85gw1eoa6iiqcsxj20k00zkdje.jpg" alt=" " title=" " width="156" height="277" />  <img src="http://ww1.sinaimg.cn/large/86e2ff85gw1eoa6ixt847j20k00zkgoz.jpg" alt=" " title=" " width="156" height="277" />
 
 #### 不足
