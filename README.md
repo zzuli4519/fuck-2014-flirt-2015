@@ -37,7 +37,7 @@
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
- | 
+[蓄势待发的一年](../master/2/zmywly8866.md) | [zmywly8866](https://github.com/zmywly8866)
 
 #### [3 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
@@ -52,6 +52,7 @@
 :------------- | :-------------
 [认真的一年](../master/4/Jason.md) | [志雄](https://github.com/jacsonLee)
 [失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq)
+[不二的一年](../master/4/RockerFlower.md) | [万能野花](http://doublewong.com)
 
 #### [5 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
@@ -61,6 +62,6 @@
 #### [6 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
- | 
+[开始的一年](../master/6/Wmmeng.md) | [Wmmeng](https://github.com/Wmmeng)
 
 
