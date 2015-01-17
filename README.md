@@ -24,7 +24,7 @@
 [开心的一年=.=](../master/1/drakeet.md) | [drakeet](https://github.com/drakeet) | [MaterialDialog](https://github.com/drakeet/MaterialDialog) 作者，有干劲想法的休学创业大学生  
 
 ### 所有
-#### [1 群](https://github.com/aosp-exchange-group/about)
+#### [Group 1](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [开源的一年](../master/1/trinea.md) | [Trinea](https://github.com/trinea)
@@ -37,13 +37,13 @@
 [就这么的两年](../master/1/larry.md) | [larry](https://github.com/18611480882)
 [事业开始的一年](../master/1/zhongbaitu.md) | [钟白兔](https://github.com/zhongbaitu)
 
-#### [2 群](https://github.com/aosp-exchange-group/about)
+#### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [蓄势待发的一年](../master/2/zmywly8866.md) | [zmywly8866](https://github.com/zmywly8866)
 [成长的一年](../master/2/sangmingming.md) | [sangmingming](https://github.com/sangmingming)
 
-#### [3 群](https://github.com/aosp-exchange-group/about)
+#### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528)
@@ -52,7 +52,7 @@
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
 [拓展的一年](../master/3/infsafe.md) | [infsafe](https://github.com/infsafe)
 
-#### [4 群](https://github.com/aosp-exchange-group/about)
+#### [Group 4](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [认真的一年](../master/4/Jason.md) | [志雄](https://github.com/jacsonLee)
@@ -61,12 +61,12 @@
 [悲伤的一年](../master/4/LaDen.md) | [杭州精创拉登](https://github.com/wuqingman)
 [开始的一年](../master/4/wudkj.md) | [wudkj](https://github.com/wudkj)
 
-#### [5 群](https://github.com/aosp-exchange-group/about)
+#### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [步步向上的一年](../master/5/WuTong.md) | [梧桐](https://github.com/lzt1226)
 
-#### [6 群](https://github.com/aosp-exchange-group/about)
+#### [Group 6](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [开始的一年](../master/6/Wmmeng.md) | [Wmmeng](https://github.com/Wmmeng)
