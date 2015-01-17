@@ -50,7 +50,7 @@
 [懂事的一年](../master/3/vNcdkguqHUh.md) | [静宏](https://github.com/vNcdkguqHUh)
 [从零到二的一年](../master/3/Caij.md) | [Caij](https://github.com/Caij)
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
-[拓展的一年](../master/3/infafe.md) | [infsafe](https://github.com/infsafe)
+[拓展的一年](../master/3/infsafe.md) | [infsafe](https://github.com/infsafe)
 
 #### [4 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
