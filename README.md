@@ -1,4 +1,4 @@
-# Fuck 2014 Flirt 2015
+﻿# Fuck 2014 Flirt 2015
 **2014 总结和 2015 展望**  
 
 **亲爱的，别走的太快，花点时间总结下过去，规划下未来，会让你走的更稳**  
@@ -35,6 +35,7 @@
 [满足的一年](../master/1/luozi.md) | [Luozi](https://github.com/luozi)
 [开心的一年=.=](../master/1/drakeet.md) | [drakeet](https://github.com/drakeet)
 [就这么的两年](../master/1/larry.md) | [larry](https://github.com/18611480882)
+[事业开始的一年](../master/1/zhongbaitu.md) | [钟白兔](https://github.com/zhongbaitu)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
