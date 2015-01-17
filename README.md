@@ -51,6 +51,7 @@
 [从零到二的一年](../master/3/Caij.md) | [Caij](https://github.com/Caij)
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
 [拓展的一年](../master/3/infsafe.md) | [infsafe](https://github.com/infsafe)
+[dong的一年](../master/3/dongorigin.md) | [dongorigin](https://github.com/dongorigin)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 简介 | 作者
