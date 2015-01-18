@@ -8,7 +8,7 @@
 > 添加规范：  
 > 1. 在`QQ n 群`就在上面 n 文件夹内以`GitHub 用户名`为文件名新建 md 后缀文件，如 trinea.md。  
 > 2. md 文件包含`2014 总结`和`2015 展望`两部分，技术与非技术皆可。  
-> 3. 回到这页，在下面各自群部分添加索引，并**可以在 QQ 群内分享给其他人**。
+> 3. 回到这页，在下面`Group n`表内添加索引，并**可以在 QQ 群内分享给其他人**。
 
 ### 精华总结  
 目前很赞的总结中的一小部分，不断更新中，欢迎推荐  
@@ -22,6 +22,10 @@
 [步步向上的一年](../master/5/WuTong.md) | [梧桐](https://github.com/lzt1226) | 专注盒子开发@360，另 187cm 诚招女友！  
 [满足的一年](../master/1/luozi.md) | [Luozi](https://github.com/luozi) | 不少 BLE 项目经验，筹备自己的微企  
 [开心的一年=.=](../master/1/drakeet.md) | [drakeet](https://github.com/drakeet) | [MaterialDialog](https://github.com/drakeet/MaterialDialog) 作者，有干劲想法的休学创业大学生  
+
+### 目录
+[开源交流 1 群](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015#group-6)  
 
 ### 所有
 #### [Group 1](https://github.com/aosp-exchange-group/about)
