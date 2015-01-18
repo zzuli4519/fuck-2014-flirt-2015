@@ -28,7 +28,7 @@
 #### 美术  
 美术其实是个非常重要的东西，虽然现在是写程序，但是任何人多少都还是要培养下自己的艺术细胞的，万一哪天不小心成了代码艺术家。    
 1. [Sketch](http://sketchcn.com/) 确实是个很棒的工具，要是大家都用它该有多好啊，别老是来问到底要多少像素。  
-2. [Material](http://www.materialup.com/) 是个很棒的设计，亮瞎了都，Google这把干得漂亮。  
+2. [Material Design](http://www.materialup.com/) 是个很棒的设计语言，亮瞎了都，Google这把干得漂亮。  
 
 #### 生活
 1. 一团糟。
