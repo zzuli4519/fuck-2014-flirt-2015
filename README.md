@@ -53,6 +53,7 @@
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
 [拓展的一年](../master/3/infsafe.md) | [infsafe](https://github.com/infsafe)
 [dong的一年](../master/3/dongorigin.md) | [dongorigin](https://github.com/dongorigin)
+[结束也是开始的一年](../master/3/egos.md) | [Egos](https://github.com/38017032)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 简介 | 作者
