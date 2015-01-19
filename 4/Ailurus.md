@@ -1,4 +1,4 @@
-#[Ailurus](www.easydone.cn) 的 2014 -> 2015
+#[Ailurus](http://www.easydone.cn) 的 2014 -> 2015
 
 ---
 
