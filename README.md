@@ -41,6 +41,7 @@
 [就这么的两年](../master/1/larry.md) | [larry](https://github.com/18611480882)
 [事业开始的一年](../master/1/zhongbaitu.md) | [钟白兔](https://github.com/zhongbaitu)
 [折腾的一年](../master/1/Juude.md) | [Juude](https://github.com/Juude)
+[紧张的一年](../master/1/Ryan2015.md) | [Ryan2015](https://github.com/Ryan2015)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
