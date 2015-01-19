@@ -58,6 +58,7 @@
 [拓展的一年](../master/3/infsafe.md) | [infsafe](https://github.com/infsafe)
 [dong的一年](../master/3/dongorigin.md) | [dongorigin](https://github.com/dongorigin)
 [结束也是开始的一年](../master/3/egos.md) | [Egos](https://github.com/38017032)
+[飞速成长的一年](../master/3/hackoooo.md) | [小灰马](https://github.com/hackoooo)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 简介 | 作者
