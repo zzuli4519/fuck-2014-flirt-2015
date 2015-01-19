@@ -1,4 +1,4 @@
-﻿# Fuck 2014 Flirt 2015
+# Fuck 2014 Flirt 2015
 **2014 总结和 2015 展望**  
 
 **亲爱的，别走的太快，花点时间总结下过去，规划下未来，会让你走的更稳**  
@@ -42,6 +42,7 @@
 [事业开始的一年](../master/1/zhongbaitu.md) | [钟白兔](https://github.com/zhongbaitu)
 [折腾的一年](../master/1/Juude.md) | [Juude](https://github.com/Juude)
 [紧张的一年](../master/1/Ryan2015.md) | [Ryan2015](https://github.com/Ryan2015)
+[稳步向前的一年](../master/1/Frank-Zhu.md) | [Frank-Zhu](https://github.com/Frank-Zhu)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
