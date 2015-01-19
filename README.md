@@ -19,7 +19,7 @@
 [埋头苦干的一年](../master/1/rengwuxian.md) | [扔物线](https://github.com/rengwuxian) | [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) 作者，[Dagger 原理](https://github.com/android-cn/android-open-project-analysis/blob/master/dagger/README.md)分析者，生子，新事业
 [失落的一年](../master/4/pcqpcq.md) | [小丑](https://github.com/pcqpcq) | 这一年超多技术的学习
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile) | 先说对着源码看完了《深入理解Android》这事
-[步步向上的一年](../master/5/WuTong.md) | [梧桐](https://github.com/lzt1226) | 专注盒子开发@360，另 187cm 诚招女友！  
+[步步向上的一年](../master/5/WuTong.md) | [梧桐](https://github.com/lzt1226) | 专注盒子开发@360！  
 [满足的一年](../master/1/luozi.md) | [Luozi](https://github.com/luozi) | 不少 BLE 项目经验，筹备自己的微企  
 [开心的一年=.=](../master/1/drakeet.md) | [drakeet](https://github.com/drakeet) | [MaterialDialog](https://github.com/drakeet/MaterialDialog) 作者，有干劲想法的休学创业大学生  
 
@@ -41,6 +41,7 @@
 [就这么的两年](../master/1/larry.md) | [larry](https://github.com/18611480882)
 [事业开始的一年](../master/1/zhongbaitu.md) | [钟白兔](https://github.com/zhongbaitu)
 [折腾的一年](../master/1/Juude.md) | [Juude](https://github.com/Juude)
+[紧张的一年](../master/1/Ryan2015.md) | [Ryan2015](https://github.com/Ryan2015)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
@@ -71,6 +72,7 @@
 [懒散的一年](../master/4/Mako.md) | [Mako](https://github.com/MakoFeng)
 [经历最多的一年](../master/4/nicewarm.md) | [北京-nice](https://github.com/nicewarm)  
 [糟糕的一年](../master/4/solitude.md)|[北京-solitude](https://github.com/fanss)
+[充满希望的一年](../master/4/Ailurus.md)|[Ailurus](https://github.com/liangzhitao)
 
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
