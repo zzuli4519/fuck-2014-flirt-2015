@@ -68,6 +68,7 @@
 [悲伤的一年](../master/4/LaDen.md) | [杭州精创拉登](https://github.com/wuqingman)
 [开始的一年](../master/4/wudkj.md) | [wudkj](https://github.com/wudkj)
 [懒散的一年](../master/4/Mako.md) | [Mako](https://github.com/MakoFeng)
+[经历最多的一年](../master/4/nicewarm.md) | [北京-nice](https://github.com/nicewarm)
 
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
