@@ -87,3 +87,4 @@
 [开始的一年](../master/6/Wmmeng.md) | [Wmmeng](https://github.com/Wmmeng)
 [初出茅庐的一年](../master/6/xlee00.md) | [Xlee](https://github.com/xlee00)
 [快速成长的一年](../master/6/xyczero.md) | [xyczero](https://github.com/xyczero)
+[乐大于忧的一年](../master/6/yjxandroid.md)|[yjxandroid](https://github.com/yjxandroid)
