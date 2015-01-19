@@ -57,6 +57,8 @@
 [从零到二的一年](../master/3/Caij.md) | [Caij](https://github.com/Caij)
 [美好的一年](../master/3/coolfile.md) | [coolfile](https://github.com/coolfile)
 [拓展的一年](../master/3/infsafe.md) | [infsafe](https://github.com/infsafe)
+[ReconcileMySelf 的2014](../master/3/ReconcileMySelf.md) | [ReconcileMySelf](https://github.com/ReconcileMySelf)
+[harichen 的 2014](../master/3/harichen.md) | [harichen](https://github.com/harichen)
 [dong的一年](../master/3/dongorigin.md) | [dongorigin](https://github.com/dongorigin)
 [结束也是开始的一年](../master/3/egos.md) | [Egos](https://github.com/38017032)
 [飞速成长的一年](../master/3/hackoooo.md) | [小灰马](https://github.com/hackoooo)
