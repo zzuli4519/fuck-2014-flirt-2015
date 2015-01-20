@@ -76,6 +76,7 @@
 [经历最多的一年](../master/4/nicewarm.md) | [北京-nice](https://github.com/nicewarm)  
 [糟糕的一年](../master/4/solitude.md)|[北京-solitude](https://github.com/fanss)
 [充满希望的一年](../master/4/Ailurus.md)|[Ailurus](https://github.com/liangzhitao)
+[勤勤恳恳的一年](../master/4/benniaobuguai.md)|[笨鸟不乖](https://github.com/benniaobuguai)
 
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
