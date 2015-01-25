@@ -77,6 +77,7 @@
 [糟糕的一年](../master/4/solitude.md)|[北京-solitude](https://github.com/fanss)
 [充满希望的一年](../master/4/Ailurus.md)|[Ailurus](https://github.com/liangzhitao)
 [勤勤恳恳的一年](../master/4/benniaobuguai.md)|[笨鸟不乖](https://github.com/benniaobuguai)
+[充实的一年](../master/4/david-loman.md)|[斯人也](https://github.com/david-loman)
 
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
