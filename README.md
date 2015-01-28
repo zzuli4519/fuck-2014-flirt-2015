@@ -43,6 +43,7 @@
 [折腾的一年](../master/1/Juude.md) | [Juude](https://github.com/Juude)
 [紧张的一年](../master/1/Ryan2015.md) | [Ryan2015](https://github.com/Ryan2015)
 [稳步向前的一年](../master/1/Frank-Zhu.md) | [Frank-Zhu](https://github.com/Frank-Zhu)
+[稳步向前的一年](../master/1/jihongwen.md) | [Frank-Zhu](https://github.com/jhwing)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
