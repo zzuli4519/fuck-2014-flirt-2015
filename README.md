@@ -84,6 +84,7 @@
 简介 | 作者
 :------------- | :-------------
 [步步向上的一年](../master/5/WuTong.md) | [梧桐](https://github.com/lzt1226)
+[起步的一年](../master/5/captain.md) | [captain](https://github.com/siyehua)
 
 #### [Group 6](https://github.com/aosp-exchange-group/about)
 简介 | 作者
