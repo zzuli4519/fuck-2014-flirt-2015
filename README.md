@@ -51,7 +51,7 @@
 [蓄势待发的一年](../master/2/zmywly8866.md) | [zmywly8866](https://github.com/zmywly8866)
 [成长的一年](../master/2/sangmingming.md) | [sangmingming](https://github.com/sangmingming)
 [千奇百怪的一年](../master/2/yuegongming.md) | [yuegongming](https://github.com/yuegongming)
-
+[不断积累的一年](../master/2/alex.md) | [Alex](https://github.com/sfshine)
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
