@@ -52,7 +52,6 @@
 [成长的一年](../master/2/sangmingming.md) | [sangmingming](https://github.com/sangmingming)
 [千奇百怪的一年](../master/2/yuegongming.md) | [yuegongming](https://github.com/yuegongming)
 [不断积累的一年](../master/2/alex.md) | [Alex](https://github.com/sfshine)
-[不断积累的一年](../master/2/alex.md) | [Alex](https://github.com/sfshine)
 [走上了正轨一年](../master/2/miao1007.md) | [miao1007](https://github.com/miao1007)
 [折腾的一年](../master/2/sufferpriest.md) | [sufferpriest](https://github.com/sufferpriest)
 
