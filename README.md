@@ -44,6 +44,7 @@
 [紧张的一年](../master/1/Ryan2015.md) | [Ryan2015](https://github.com/Ryan2015)
 [稳步向前的一年](../master/1/Frank-Zhu.md) | [Frank-Zhu](https://github.com/Frank-Zhu)
 [过渡的一年](../master/1/jihongwen.md) | [jihongwen](https://github.com/jhwing)
+[转折的一年](../master/1/Gracker.md)| [Gracker](https://github.com/Gracker)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
