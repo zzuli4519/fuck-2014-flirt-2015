@@ -56,6 +56,7 @@
 [走上了正轨一年](../master/2/miao1007.md) | [miao1007](https://github.com/miao1007)
 [折腾的一年](../master/2/sufferpriest.md) | [sufferpriest](https://github.com/sufferpriest)
 [压抑的一年](../master/2/dumingxin.md)| [dumingxin](https://github.com/dumingxin)
+[有体会的一年](../master/2/whilu.md)| [whilu](https://github.com/whilu)
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
