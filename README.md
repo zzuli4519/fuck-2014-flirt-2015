@@ -86,6 +86,7 @@
 [充满希望的一年](../master/4/Ailurus.md)|[Ailurus](https://github.com/liangzhitao)
 [勤勤恳恳的一年](../master/4/benniaobuguai.md)|[笨鸟不乖](https://github.com/benniaobuguai)
 [充实的一年](../master/4/david-loman.md)|[斯人也](https://github.com/david-loman)
+[从迷惘到定向的一年](../master/4/adam.md)|[Adam](https://github.com/adamin1990)
 
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
