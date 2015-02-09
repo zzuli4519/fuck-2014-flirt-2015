@@ -101,5 +101,8 @@
 [开始的一年](../master/6/Wmmeng.md) | [Wmmeng](https://github.com/Wmmeng)
 [初出茅庐的一年](../master/6/xlee00.md) | [Xlee](https://github.com/xlee00)
 [快速成长的一年](../master/6/xyczero.md) | [xyczero](https://github.com/xyczero)
-[乐大于忧的一年](../master/6/yjxandroid.md)|[yjxandroid](https://github.com/yjxandroid)
-[新环境新世界](../master/6/jiechic.md)|[Jiechic](https://github.com/jiechic)
+[乐大于忧的一年](../master/6/yjxandroid.md) | [yjxandroid](https://github.com/yjxandroid)
+[新环境新世界](../master/6/jiechic.md) | [Jiechic](https://github.com/jiechic)
+[macbookpro2100 的 2014](../master/6/macbookpro2100.md) | [macbookpro2100](https://github.com/macbookpro2100)
+[yuchuangu85 的 2014](../master/6/yuchuangu85.md) | [yuchuangu85](https://github.com/yuchuangu85)
+
