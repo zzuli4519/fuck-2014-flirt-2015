@@ -60,7 +60,6 @@
 [压抑的一年](../master/2/dumingxin.md)| [dumingxin](https://github.com/dumingxin)
 [有体会的一年](../master/2/whilu.md)| [whilu](https://github.com/whilu)
 [Don的一年](../master/2/donlianggit.md)| [Don Liang](https://github.com/donlianggit)
-[Mr.Simple 成长的一年](../master/2/mr.simple.md)| [Mr.Simple](https://github.com/bboyfeiyu)
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
@@ -91,6 +90,7 @@
 [勤勤恳恳的一年](../master/4/benniaobuguai.md)|[笨鸟不乖](https://github.com/benniaobuguai)
 [充实的一年](../master/4/david-loman.md)|[斯人也](https://github.com/david-loman)
 [从迷惘到定向的一年](../master/4/adam.md)|[Adam](https://github.com/adamin1990)
+[Mr.Simple 成长的一年](../master/4/mr.simple.md)| [Mr.Simple](https://github.com/bboyfeiyu)
 
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 简介 | 作者
