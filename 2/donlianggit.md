@@ -49,6 +49,7 @@ Hebrews 12:1-2
 ####每月规划：
 1. 二月规划
   - 极速完成Leetcode简单中等题目一遍
+  - Lintcode练习
   - 细心完成Cracking the Coding interview一遍
   - 细心以Hackathon心态完成Element of Programming interview一遍
   - 完成Gitbook二月版
