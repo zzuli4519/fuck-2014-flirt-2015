@@ -57,6 +57,7 @@
 [折腾的一年](../master/2/sufferpriest.md) | [sufferpriest](https://github.com/sufferpriest)
 [压抑的一年](../master/2/dumingxin.md)| [dumingxin](https://github.com/dumingxin)
 [有体会的一年](../master/2/whilu.md)| [whilu](https://github.com/whilu)
+[Don的一年](../master/2/donlianggit.md)| [Don Liang](https://github.com/donlianggit)
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
