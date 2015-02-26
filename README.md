@@ -60,6 +60,7 @@
 [压抑的一年](../master/2/dumingxin.md)| [dumingxin](https://github.com/dumingxin)
 [有体会的一年](../master/2/whilu.md)| [whilu](https://github.com/whilu)
 [Don的一年](../master/2/donlianggit.md)| [Don Liang](https://github.com/donlianggit)
+[认清方向的一年](../master/2/grumoon.md)| [Grumoon](https://github.com/grumoon)
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
