@@ -75,6 +75,7 @@
 [dong的一年](../master/3/dongorigin.md) | [dongorigin](https://github.com/dongorigin)
 [结束也是开始的一年](../master/3/egos.md) | [Egos](https://github.com/38017032)
 [飞速成长的一年](../master/3/hackoooo.md) | [小灰马](https://github.com/hackoooo)
+[写在30岁之前](../master/3/Elrond.md) | [Elrond](https://github.com/elrondliu)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 简介 | 作者
