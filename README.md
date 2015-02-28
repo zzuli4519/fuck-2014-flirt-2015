@@ -47,6 +47,7 @@
 [稳步向前的一年](../master/1/Frank-Zhu.md) | [Frank-Zhu](https://github.com/Frank-Zhu)
 [过渡的一年](../master/1/jihongwen.md) | [jihongwen](https://github.com/jhwing)
 [转折的一年](../master/1/Gracker.md)| [Gracker](https://github.com/Gracker)
+[变化的一年](../master/1/fanei.md)| [fanei](https://github.com/fanei)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
