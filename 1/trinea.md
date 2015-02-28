@@ -13,11 +13,11 @@
 4. 工作上大半年的时间都在日志系统、插件化、项目整体设计思考上。通过日志系统也对 Hadoop 及 Hive 有一定接触和了解，而插件化及整体设计的思考也让自己有时间系统总结一直在脑海中的碎念，并且和自己以前网站开发的经验结合起来。  
 
 5. 开源了 [Android Common](https://github.com/Trinea/android-common) 和 [Android Auto Scroll ViewPager](https://github.com/Trinea/android-auto-scroll-view-pager)，效果都还可以，只是最近几个月都没时间改进和维护，最初的设计开始被自己嫌弃了。  
-[Android开源项目分类汇总](https://github.com/Trinea/android-open-project) 获得了不少关注，并且下半年花了不少时间在其衍生项目 [Android 优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis) 上，同时也有了实质性的进展和结果。  
+[Android开源项目分类汇总](https://github.com/Trinea/android-open-project) 获得了不少关注，并且下半年花了不少时间在其衍生项目 [Android 优秀开源项目实现原理解析](http://www.codekk.com/) 上，同时也有了实质性的进展和结果。  
 
 6. [个人博客](http://www.trinea.cn/)虽然产出频率低了很多，但总体访问量上升率还是不错的，也积累了一部分忠实用户。博客内容方向也还算满意。
 
-7. 用 Node.js 和 MongoDB 写了个网站，过段时间会正式对外，相信会有不错效果。
+7. 用 Node.js 和 MongoDB 写了个[网站](http://www.codekk.com/)，过段时间会正式对外，相信会有不错效果。
 
 #### 不足
 1. 这一年几乎没花多少时间在健身上，尤其是下半年忙于开源分析后，曾经的跑步骑车羽毛球统统丢下……  
@@ -34,8 +34,8 @@
 
 4. 用 Kindle 多看些好书，明年年底希望能在技术和非技术方面都推荐些不错的书。  
 
-5. 上半年主要业余精力会投入到 [Android 优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis) 以及上面提到的网站上，相信这两个东西都会对其他朋友大有益处。  
-下半年精力会投入到自己的一些 idea 实现上，这也是明年的重点，具体暂时保密。  
+5. 上半年主要业余精力会投入到 [Android 优秀开源项目实现原理解析](http://www.codekk.com/) 以及上面提到的网站上，相信这两个东西都会对其他朋友大有益处。  
+下半年精力会投入到自己的一些 idea 实现上，这也是明年的重点，具体暂时保密，哈哈。  
 
 6. 四月份左右开始[个人博客](http://www.trinea.cn/)会提高更新频率，内容会跟下半年内容类似，偏向于分享方法，授人以渔。  
 
