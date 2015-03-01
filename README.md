@@ -47,6 +47,7 @@
 [稳步向前的一年](../master/1/Frank-Zhu.md) | [Frank-Zhu](https://github.com/Frank-Zhu)
 [过渡的一年](../master/1/jihongwen.md) | [jihongwen](https://github.com/jhwing)
 [转折的一年](../master/1/Gracker.md)| [Gracker](https://github.com/Gracker)
+[变化的一年](../master/1/fanei.md)| [fanei](https://github.com/fanei)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 简介 | 作者
@@ -60,6 +61,7 @@
 [压抑的一年](../master/2/dumingxin.md)| [dumingxin](https://github.com/dumingxin)
 [有体会的一年](../master/2/whilu.md)| [whilu](https://github.com/whilu)
 [Don的一年](../master/2/donlianggit.md)| [Don Liang](https://github.com/donlianggit)
+[认清方向的一年](../master/2/grumoon.md)| [Grumoon](https://github.com/grumoon)
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 简介 | 作者
@@ -74,6 +76,7 @@
 [dong的一年](../master/3/dongorigin.md) | [dongorigin](https://github.com/dongorigin)
 [结束也是开始的一年](../master/3/egos.md) | [Egos](https://github.com/38017032)
 [飞速成长的一年](../master/3/hackoooo.md) | [小灰马](https://github.com/hackoooo)
+[写在30岁之前](../master/3/Elrond.md) | [Elrond](https://github.com/elrondliu)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 简介 | 作者
