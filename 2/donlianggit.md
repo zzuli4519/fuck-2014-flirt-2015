@@ -47,7 +47,7 @@ Hebrews 12:1-2
 2. 改变自己的交际方式：虚心向别人请教，Outgoing和健谈
 
 ####每月规划：
-1. 二月规划
+1. 三月规划
   - 极速完成Leetcode简单中等题目一遍
   - Lintcode练习
   - 细心完成Cracking the Coding interview一遍
@@ -60,9 +60,8 @@ Hebrews 12:1-2
   - Python基础学习（做题目）
   - 完成个人网站（Bootstrap + Parallax）
   - Database Leetcode题目和基本概念复习
-  - Computer Architecture课的学习与复习
   - 尽量认识多些同学和朋友
   - 多用英文思维想东西
   - 认识主耶稣
-  - 运动和煮饭给自己
+  - 多線程的問題和Java OOD
 
